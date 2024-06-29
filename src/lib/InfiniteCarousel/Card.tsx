@@ -7,7 +7,7 @@ interface Props {
 const Card = ({img} : Props) => {
 
   return (
-    <motion.div style={{backgroundImage: `url(${img})`}} className='w-[340px] h-[340px] bg-center bg-cover rounded-xl'></motion.div>
+    <motion.div style={{backgroundImage: `url(${img})`}} className='w-[180px] h-[180px] bg-center bg-cover rounded-xl'></motion.div>
   )
 }
 
