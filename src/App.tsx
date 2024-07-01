@@ -1,5 +1,6 @@
-import InfiniteCarousel from "./lib/InfiniteCarousel/InfiniteCarousel"
-import Index from "./lib/paralax-transition/Index"
+// import InfiniteCarousel from "./lib/InfiniteCarousel/InfiniteCarousel"
+// import Index from "./lib/basics/Index"
+import Index from "./lib/scroll-nav/Index"
 
 const App = () => {
 // bg-gradient-to-tr from-white via-slate-50 to-sky-300

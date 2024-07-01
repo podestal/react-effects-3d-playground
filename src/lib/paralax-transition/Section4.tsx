@@ -1,5 +1,3 @@
-import { MotionValue, useTransform, motion } from "framer-motion";
-
 const Section4 = () => {
 
   return (

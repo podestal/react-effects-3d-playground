@@ -27,15 +27,9 @@ const Index = () => {
 
   return (
     <div ref={container} className="relative h-[400vh]">
-        <Section1 
-            scrollYProgress={scrollYProgress}
-        />
-        <Section2 
-
-        />
-        <Section3 
-            scrollYProgress={scrollYProgress}
-        />
+        <Section1 scrollYProgress={scrollYProgress} />
+        <Section2 />
+        <Section3 />
         <Section4 />
     </div>
   )
